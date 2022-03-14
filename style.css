@@ -1,0 +1,26 @@
+div {
+	background-color: rgb(240, 235, 237);
+	max-width: 600px;
+	margin: 100px;
+	padding: 16px;
+}
+
+ol {
+	background-color: rgb(255, 198, 237);
+	padding: 16px;
+	margin: 0;
+	list-style-position: inside;
+	color: white;
+}
+
+li {
+	background-color: rgb(189, 115, 146);
+	padding: 8px 12px;
+	margin: 10px;
+}
+
+span {
+	background-color: rgb(153, 45, 86);
+	padding: 8px 16px;
+	margin-left: 6px;
+}
